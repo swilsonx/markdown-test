@@ -10,3 +10,7 @@ This is basic copy content, not a header, this is where I put the bulk of the co
 nan_values = dataset.isna()
 nan_columns = nan_values.any()
 ...
+
+- [ ] Turn on Git Hub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
